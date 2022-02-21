@@ -7,14 +7,17 @@
             <div class="input-group mb-4">
                 <span class="input-group-text col-5" id="inputGroup-sizing-default">Логин</span>
                 <input placeholder='Введите логин' type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" id="loginReg">
+            <br>
             </div>
             <div class="input-group mb-4">
                 <span class="input-group-text col-5" id="inputGroup-sizing-default">Пароль</span>
                 <input placeholder='Введите пароль не короче 8 символов' type="password" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" id="passwordReg">
+            <br>
             </div>
             <div class="input-group mb-4">
                 <span class="input-group-text col-5" id="inputGroup-sizing-default">Подтвердить пароль</span>
                 <input placeholder='Повторите пароль' type="password" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" id="confirmPassword">
+            <br>
             </div>
             <div class="input-group mb-4">
                 <span class="input-group-text col-5" id="inputGroup-sizing-default">e-mail</span>
